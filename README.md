@@ -34,7 +34,7 @@ This Python script automatically generates new Solana addresses, checks their ba
 2. The public key is converted into a Solana address.
 3. A request is sent to `https://api.mainnet-beta.solana.com` to check the balance.
 4. If the balance is greater than 0, the wallet is saved to `solana_wallets.txt`.
-5. The script repeats these steps in an infinite loop (with a 2-second interval).
+5. Gen 5 wallets per second
 
 ## 📁 Saved Wallet Format
 If an address has a balance, it is recorded in `solana_wallets.txt` in the following format:
