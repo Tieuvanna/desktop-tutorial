@@ -7,8 +7,7 @@ This Python script automatically generates new Solana addresses, checks their ba
 - Generates random Solana addresses and private keys.
 - Checks wallet balance using the Solana JSON-RPC API.
 - Automatically saves wallets with a balance > 0 to `solana_wallets.txt`.
-- Colored output for better readability.
-![изображение](https://github.com/user-attachments/assets/04a14536-a685-48c3-a19d-952370017e7e)
+![изображение](https://github.com/user-attachments/assets/57891d59-9b81-4e7c-94de-60c051ed1e37)
 
 ## 🛠 Requirements
 - Python 3.6+
@@ -46,7 +45,6 @@ Balance: 1000000000 lamports (1 SOL)
 ```
 
 ## ⚠️ Warning!
-- **The script does not search for "rich" wallets** — each new address is empty until SOL is sent to it.
 - **Do not share your private keys!** Anyone with a private key can steal funds from the wallet.
 - Use this tool **for educational purposes only**.
 
