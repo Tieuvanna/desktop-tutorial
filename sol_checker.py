@@ -65,5 +65,5 @@ while True:
     else:
         print(Fore.RED + "Failed to retrieve balance.")
 
-    time.sleep(2)
+    time.sleep(0.2)
 
