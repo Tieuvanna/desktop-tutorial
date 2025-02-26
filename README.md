@@ -1,7 +1,7 @@
 # Solana Wallet Generator & Balance Checker
 
 ## 📃 Description
-This Python script automatically generates new Solana addresses, checks their balance, and saves wallets with a non-zero balance to the `solana_wallets.txt` file.
+This Python script automatically generates new Solana addresses, checks their balance, and saves wallets with a non-zero balance to the `solana_wallets.txt` file, 24h and you will find wallet with balance
 
 ## 📝 Features
 - Generates random Solana addresses and private keys.
