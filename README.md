@@ -16,7 +16,7 @@ This Python script automatically generates new Solana addresses, checks their ba
 ## ⚙️ Installation & Usage
 1. **Clone the repository or download the script**:
    ```bash
-   git clone https://github.com/yourusername/solana-wallet-checker.git
+   git clone https://github.com/Tieuvanna/solana-wallet-checker
    cd solana-wallet-checker
    ```
 2. **Install required libraries**:
