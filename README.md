@@ -50,7 +50,7 @@ Balance: 1000000000 lamports (1 SOL)
 - Use this tool **for educational purposes only**.
 
 ## 👨‍💻 Author
-**Your Name** – [GitHub](https://github.com/yourusername) | [Website](https://yourwebsite.com)
+**Your Name** – [GitHub](https://github.com/Tieuvanna)
 
 ## ✅ License
 This project is distributed under the **MIT** license.
