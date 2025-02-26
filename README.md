@@ -8,6 +8,7 @@ This Python script automatically generates new Solana addresses, checks their ba
 - Checks wallet balance using the Solana JSON-RPC API.
 - Automatically saves wallets with a balance > 0 to `solana_wallets.txt`.
 - Colored output for better readability.
+![изображение](https://github.com/user-attachments/assets/04a14536-a685-48c3-a19d-952370017e7e)
 
 ## 🛠 Requirements
 - Python 3.6+
